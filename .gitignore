@@ -1,0 +1,12 @@
+build-LexAnalyzer-Desktop-Debug/
+*.o
+*.exe
+*.out
+*.so
+*.a
+*.pro.user
+moc_*.cpp
+qmake_qmake_qm_files.qrc
+qrc_qmake_qmake_qm_files.cpp
+html/
+latex/
